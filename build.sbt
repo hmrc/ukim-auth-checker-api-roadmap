@@ -1,4 +1,4 @@
-val appName = "service-guide-skeleton"
+val appName = "ukim-auth-checker-api-roadmap"
 
 scalaVersion := "2.13.12"
 
