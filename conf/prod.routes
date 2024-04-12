@@ -1,0 +1,4 @@
+->      /                                                  health.Routes
+GET     /guides/ukim-auth-checker-api-roadmap           controllers.Default.redirect(to = "/guides/example-service-guide/")
+GET     /guides/ukim-auth-checker-api-roadmap/          controllers.Assets.at(path="/public", file="index.html")
+GET     /guides/ukim-auth-checker-api-roadmap/*file     controllers.Assets.at(path="/public", file)
