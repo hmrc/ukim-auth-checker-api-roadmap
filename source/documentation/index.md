@@ -4,7 +4,7 @@ Last updated: April 2024
 ## UKIMS
 Learn about key UKIMS dates.
 
-![roadmap](./UKIMS_Roadmap_Draft_V3.pdf){width=65%}
+![roadmap](https://github.com/hmrc/ukim-auth-checker-api-roadmap/tree/66fb8c11b82b6eca05ca2daa321aed897745ad17/source/downloads//UKIMS_Roadmap_Draft_V3.pdf){width=120%}
 
 ## What we’re working on now
 UKIMS API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS Changelog on GitHub regularly.
