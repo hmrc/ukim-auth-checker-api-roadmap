@@ -4,10 +4,10 @@ Last updated: April 2024
 ## UKIMS
 Learn about key UKIMS dates.
 
-![roadmap](.//UKIMS_Roadmap_Draft_V3(1).pdf.pdf){width=65%}
+![roadmap](./UKIMS_Roadmap_Draft_V3.pdf){width=65%}
 
 ## What we’re working on now
-UKIMS API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS Changelog changelog on GitHub regularly.
+UKIMS API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS Changelog on GitHub regularly.
 
 ## Updates
 
