@@ -1,5 +1,5 @@
 # UKIMS API roadmap
-Last updated: April 2024
+Last updated: April 17th 2024
 
 ## UKIMS
 Learn about key UKIMS dates.
