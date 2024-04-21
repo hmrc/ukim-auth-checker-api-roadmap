@@ -1,3 +1,9 @@
+---
+title: UKIMS API Roadmap
+weight: 1
+description: For Fast Parcel Operators (FPOs), Agents transporting goods GB/NI, B2B Agents for GB/NI, Third party software houses, designers, product owners or business analysts. Processes involved in passing EORI numbers to check UKIM validity
+---
+
 # UKIMS API roadmap
 Last updated: April 17th 2024
 
