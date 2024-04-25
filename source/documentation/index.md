@@ -1,3 +1,9 @@
+---
+title: # United Kingdom Internal Market Scheme (UKIMS) API Roadmap
+weight: 1
+description: For Fast Parcel Operators (FPOs), Agents transporting goods GB/NI, B2B Agents for GB/NI, Third party software houses, designers, product owners or business analysts. Processes involved in passing EORI numbers to check UKIM validity
+---
+
 # United Kingdom Internal Market Scheme (UKIMS) API Roadmap
 Last updated: April 2024
 
