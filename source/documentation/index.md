@@ -1,4 +1,4 @@
-# UKIMS API roadmap
+# United Kingdom Internal Market Scheme (UKIMS) API Service Guide
 Last updated: April 2024
 
 ## UKIMS
