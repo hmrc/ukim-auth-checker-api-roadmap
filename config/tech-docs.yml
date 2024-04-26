@@ -2,7 +2,7 @@
 service_name: UK Internal Market Authorisation Checker API Roadmap
 
 # The route that will be used to access this site (with tailing slash)
-service_link: /guides/ukim-auth-checker-api-roadmap/
+service_link: /roadmaps/ukim-auth-checker-api-roadmap/
 
 # ================================================
 # You shouldn't need to edit anything below here
