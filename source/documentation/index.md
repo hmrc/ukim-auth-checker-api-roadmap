@@ -26,8 +26,8 @@ UKIMS API v1.0 is currently going through Alpha Assessment. Some of the existing
 - UKIMS API v1.0 testing guide (tbd)
 - UKIMS API v1.0 technical interface specification (tbd)
 
- **Note** For information about how to use these documents, see the ‘Navigating UKIMS API documentation’ section in the service guide (tbd).
-It’s important to ensure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
+ **Note** For information about how to use these documents, see the ‘Navigating UKIMS API documentation’ section in the service guide.
+It’s important to make sure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
 
 If you have any questions or any issues with completing the move to the new API, email SDSTeam@hmrc.gov.uk.
 
