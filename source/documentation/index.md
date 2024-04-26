@@ -1,4 +1,10 @@
-# UKIMS API roadmap
+---
+title: United Kingdom Internal Market Scheme (UKIMS) API Roadmap
+weight: 1
+description: For Fast Parcel Operators (FPOs), Agents transporting goods GB/NI, B2B Agents for GB/NI, Third party software houses, designers, product owners or business analysts. Processes involved in passing EORI numbers to check UKIM validity
+---
+
+# United Kingdom Internal Market Scheme (UKIMS) API Roadmap
 Last updated: April 2024
 
 ## UKIMS
@@ -20,8 +26,8 @@ UKIMS API v1.0 is currently going through Alpha Assessment. Some of the existing
 - UKIMS API v1.0 testing guide (tbd)
 - UKIMS API v1.0 technical interface specification (tbd)
 
- **Note** For information about how to use these documents, see the ‘Navigating UKIMS API documentation’ section in the service guide (tbd).
-It’s important to ensure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
+ **Note** For information about how to use these documents, see the ‘Navigating UKIMS API documentation’ section in the service guide.
+It’s important to make sure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
 
 If you have any questions or any issues with completing the move to the new API, email SDSTeam@hmrc.gov.uk.
 
