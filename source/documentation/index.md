@@ -12,16 +12,16 @@ UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment
 
 ## Updates
 
-- UKIMS API Alpha Assesment in progress
-- UKIMS API v1.0 will not be ready for use in production until the UKIMS Eori Checker service goes live.
+- UKIMS Checker API v1.0 Alpha Assesment in progress
+- UKIMS Checker API v1.0 will not be ready for use in production until the UKIMS Eori Checker service goes live.
 
 ## Related documentation
-- UKIMS API v1.0 reference guide
-- UKIMS API v1.0 service guide
-- UKIMS API v1.0 testing guide (tbd)
-- UKIMS API v1.0 technical interface specification (tbd)
+- UKIMS Checker API v1.0 reference guide
+- UKIMS Checker API v1.0 service guide
+- UKIMS Checker API v1.0 testing guide (tbd)
+- UKIMS Checker API v1.0 technical interface specification (tbd)
 
- **Note** For information about how to use these documents, see the ‘Navigating UKIMS API documentation’ section in the service guide.
+ **Note** For information about how to use these documents, see the ‘Navigating UKIMS Checker API v1.0 documentation’ section in the service guide.
 It’s important to make sure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
 
 If you have any questions or any issues with completing the move to the new API, email SDSTeam@hmrc.gov.uk.
