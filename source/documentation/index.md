@@ -1,5 +1,5 @@
 
-# United Kingdom Internal Market Scheme (UKIMS) API Roadmap
+# UK Internal Market Scheme (UKIMS) Authorisation Checker API Roadmap
 Last updated: April 30th 2024
 
 ## UKIMS
