@@ -5,7 +5,7 @@ Last updated: April 30th 2024
 ## UKIMS
 Learn about key UKIMS dates.
 
-[Click here for UKIMS Authorisation Checker API v1.0  roadmap](/guides/ukim-auth-checker-api-roadmap/downloads/UKIMS_Roadmap_Draft_V3.pdf/UKIMS_Roadmap_Draft_V3.pdf)
+[Click here for UKIMS Authorisation Checker API v1.0  roadmap](/guides/ukim-auth-checker-api-roadmap/downloads/UKIMS_Roadmap_Draft_V3.pdf)
 
 ## What we’re working on now
 UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS Changelog on GitHub regularly.
