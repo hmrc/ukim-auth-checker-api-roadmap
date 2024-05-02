@@ -17,7 +17,7 @@ UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment
 ## Updates
 
 - UKIMS Checker API v1.0 Alpha Assesment in progress
-- UKIMS Checker API v1.0 will not be ready for use in production until the UKIMS Eori Checker service goes live.
+- UKIMS Checker API v1.0 will not be ready for use in production until the UKIMS Checker API service goes live.
 
 ## Related documentation
 - UKIMS Checker API v1.0 reference guide
