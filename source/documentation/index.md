@@ -3,7 +3,7 @@
 Last updated: April 30th 2024
 
 ## UKIMS
-Learn about key UKIMS Authorisation Cheker dates.
+Learn about key UKIMS Authorisation Checker dates.
 
 
 | Event                                              | Date(s)              |
