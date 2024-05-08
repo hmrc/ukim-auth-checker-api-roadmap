@@ -1,6 +1,6 @@
 
 # UK Internal Market Scheme (UKIMS) Authorisation Checker API Roadmap
-Last updated: May 7th 2024
+Last updated: May 8th 2024
 
 ## UKIMS
 Learn about key UKIMS Authorisation Checker API dates.
