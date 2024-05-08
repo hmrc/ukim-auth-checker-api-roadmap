@@ -21,7 +21,7 @@ UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment
 
 ## Related documentation
 - UKIMS Authorisation Checker API v1.0 reference guide [here](/api-documentation/docs/api?filter=customs).
-- UKIMS Authorisation Checker API v1.0 service guide [here](/guides/ukim-auth-checker-api-service-guide/source/documentation/index.md).
+- UKIMS Authorisation Checker API v1.0 service guide [here](/guides/ukim-auth-checker-api-service-guide/).
 
  **Note** It’s important to make sure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
 
