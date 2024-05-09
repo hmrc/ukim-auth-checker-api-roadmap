@@ -3,7 +3,7 @@
 Last updated: May 8th 2024
 
 ## UKIMS
-Learn about key UKIMS Authorisation Checker API dates.
+Learn here about key UKIMS Authorisation Checker API dates.
 
 
 | Event                                              | Date(s)              |
@@ -12,7 +12,7 @@ Learn about key UKIMS Authorisation Checker API dates.
 
 
 ## What we’re working on now
-UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS [Changelog](https://github.com/hmrc/ukim-auth-checker-api/wiki/UK-Internal-Market-Scheme-(UKIMS)-Authorisation-Checker-API-Changelog) on GitHub regularly.
+The UKIMS Authorisation Checker API v1.0 is currently going through Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the UKIMS [Changelog](https://github.com/hmrc/ukim-auth-checker-api/wiki/UK-Internal-Market-Scheme-(UKIMS)-Authorisation-Checker-API-Changelog) on GitHub regularly.
 
 ## Updates
 
