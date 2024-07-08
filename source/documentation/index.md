@@ -25,5 +25,5 @@ The UKIMS Authorisation Checker API v1.0 recently passed Alpha Assessment. Some 
 
  **Note** It’s important to make sure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you’ve prepared them to make transit declarations.
 
-If you have any questions or any issues with completing the move to the new API, email [SDSTeam@hmrc.gov.uk](mailto:SDSTeam@hmrc.gov.uk)
+If you have any questions or any issues with using this API, email [SDSTeam@hmrc.gov.uk](mailto:SDSTeam@hmrc.gov.uk)
 
